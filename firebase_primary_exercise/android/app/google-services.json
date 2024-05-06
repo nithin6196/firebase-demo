@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "879732048510",
+    "project_id": "home-application-bc4ae",
+    "storage_bucket": "home-application-bc4ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879732048510:android:0c2b7570efd05b05ef0e2f",
+        "android_client_info": {
+          "package_name": "com.perayam.cricketclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8jkP3QU97_zhcVpZRugacYvBXYnkhI5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
